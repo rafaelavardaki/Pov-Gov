@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Esoda1 {
     public void greet() {
-        System.out.println ("Δώσε τα στοιχεία του Κρατικού Προϋπολογιμού.");
+        System.out.println ("Δώσε τιμές στις παρακάτω κατηγορίες.");
     }
 
     public static void main(String[] args) {
